@@ -1,29 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/mohammedyazid/mohammedyazid/blob/main/ecolaunch.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Yazid, a computer science student 👨‍💻 </div>  
-  
-
-<br/>  
-
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-  
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
