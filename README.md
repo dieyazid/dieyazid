@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yazid, a computer science student 👨‍💻 </div>  
+
 
 
 ## Connect with me  
