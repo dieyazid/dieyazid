@@ -6,6 +6,16 @@
 
 ## Github Stats  
 <p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedyazid" />
+</a>
+ </p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedyazid" />
+</a>
+</p>
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mohammedyazid&theme=prussian&hide_border=true" />
 </p>
 
