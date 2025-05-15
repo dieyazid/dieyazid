@@ -29,17 +29,15 @@ I love building useful tools, writing clean code, and having fun while I’m at 
 ### 📍 Based In
 
 **Béchar, Algeria** – A city of warmth, sand, and strong tea.  
-No, I’ve never ridden a camel. No, it’s not my daily commute 🐪
+Yes, we do have internet. We don't live in tents :)
 
-<img src="https://media.giphy.com/media/3o7TKz5YBmu5sylm9O/giphy.gif" width="200">
+<img src="https://images.steamusercontent.com/ugc/2067771513385219345/55EF861B056DEE5846C2158057CA7B212554DCCC/" width="200">
 
 ---
 
 ### ⚡ Quick Facts
 
-- 🎮 Rise of Kingdoms player  
-- 🎓 Finished a master’s thesis  
-- 🏋️‍♂️ 176cm tall / 63kg and always trying to stay in shape  
+- 🎓 Finished a master’s thesis    
 - 🎯 Enjoys side projects, automation, and experimenting with new tech
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" align="right">
