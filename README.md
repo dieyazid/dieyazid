@@ -29,7 +29,7 @@ I love building useful tools, writing clean code, and having fun while I’m at 
 ### 📍 Based In
 
 **Béchar, Algeria** – A city of warmth, sand, and strong tea.  
-Yes, I’ve ridden a camel. No, it’s not my daily commute 🐪
+No, I’ve never ridden a camel. No, it’s not my daily commute 🐪
 
 <img src="https://media.giphy.com/media/3o7TKz5YBmu5sylm9O/giphy.gif" width="200">
 
