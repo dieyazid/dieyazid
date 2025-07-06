@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" align="right">
 
-Welcome to my GitHub profile! I’m a 23-year-old developer and AI enthusiast from Béchar, Algeria 🇩🇿.  
+Welcome to my GitHub profile! I’m a 24-year-old developer and AI enthusiast from Béchar, Algeria 🇩🇿.  
 I love building useful tools, writing clean code, and having fun while I’m at it.
 
 ---
@@ -47,11 +47,8 @@ Yes, we do have internet. We don't live in tents :)
 ### 📫 Let's Connect
 
 - Telegram: [@dieyazid](https://t.me/dieyazid)
-- GitHub DMs are open, or drop me an issue if you like my work!
+- Drop me star or an issue if you like my work!
 
 ---
-
-> _“Build cool stuff, keep it real, and help where you can.”_  
-> – Yazid
 
 <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="150">
